@@ -1,0 +1,2 @@
+Link Git: https://git-scm.com/downloads
+Git Bash otimiza o uso do Git
